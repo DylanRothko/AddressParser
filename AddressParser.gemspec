@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "lib/AddressParser/version"
+require_relative "lib/AddressParser/constants"
 require_relative "lib/AddressParser/parser"
 
 Gem::Specification.new do |spec|

@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "AddressParser/version"
+require_relative "AddressParser/constants"
 require_relative "AddressParser/parser"
 
 module AddressParser
